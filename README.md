@@ -1,6 +1,6 @@
 # 👨‍💻 Abdi Megersa
 
-## Full Stack Developer | MERN | Nextjs Expert
+## Full Stack Developer
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdimegersa14@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-251900901056-blue?style=flat&logo=whatsapp&logoColor=white)](tel:+251900901056)

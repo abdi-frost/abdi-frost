@@ -1,39 +1,53 @@
-# 👨‍💻 Abdi Megersa
+# Abdi Megersa
 
-## Full Stack Developer
+Lead fullstack engineer in Addis Ababa. I build multi-tenant products from the data model to the last interface state — typed frontends, predictable APIs, and deploys I can stand behind.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdimegersa14@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-251900901056-blue?style=flat&logo=whatsapp&logoColor=white)](tel:+251900901056)
+**Lead Fullstack Developer** at BelightSoft · Addis Ababa, ET
 
-### 🛠️ Tech Stack
+[Portfolio](https://abdimegersa.dev) · [LinkedIn](https://linkedin.com/in/abdi-frost) · [Email](mailto:abdimegersa12@gmail.com)
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=react&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+---
 
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+## What I work on
 
-#### DevOps & Tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat&logo=cPanel&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+I ship systems where tenancy, authorization, and money are product boundaries — not afterthoughts.
 
-#### API Testing & Documentation
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+- **Marketplace + finance as separate systems** — catalog and credit do not share a deploy
+- **Multi-tenant platforms** — org boundaries, entitlements, and audit trails enforced on the server
+- **Modular ERPs** — shared packages for auth, UI, and schema so products do not drift
+- **Delivery** — GitHub Actions across Vercel, VPS, and cPanel; mentorship and code review
 
+Most client and company repositories stay private. Public product surfaces and open builds are below.
+
+## Production (public)
+
+| Product | Role | Link |
+| --- | --- | --- |
+| **7net Marketplace** | Lead fullstack | [7netmarket.com](https://7netmarket.com) |
+| **7net Finance** | Lead fullstack | [finance.7netmarket.com](https://finance.7netmarket.com) |
+| **Pextran** (HR & Agency modules) | Software engineer | [pextran.com](https://pextran.com) |
+
+Also lead **Officeless** and **CHMS** at BelightSoft — private products, public writing on the portfolio.
+
+## Selected public repositories
+
+Projects I can link here without exposing private work:
+
+| Repo | What it is |
+| --- | --- |
+| [market-vision](https://github.com/abdi-frost/market-vision) | Trading analytics — NestJS candles, Next.js UI · [live](https://market-vision-six.vercel.app) |
+| [goal-breakdown](https://github.com/abdi-frost/goal-breakdown) | AI goal planning — Next.js + FastAPI · [live](https://goal-breakdown.vercel.app) |
+| [cpanel-next-autodeploy](https://github.com/abdi-frost/cpanel-next-autodeploy) | Guide: Next.js from private GitHub to cPanel via Actions + FTP |
+| [multitenant-pm](https://github.com/abdi-frost/multitenant-pm) | Multi-tenant project management experiment · [live](https://multitenant-pm-core.vercel.app) |
+| [talent-hub](https://github.com/abdi-frost/talent-hub) | Talent intake + admin review on Next.js / Prisma · [live](https://talent-hub-blue.vercel.app) |
+| [explain-ai](https://github.com/abdi-frost/explain-ai) | Explainability API surface · [live](https://explain-ai-api.vercel.app) |
+
+## Stack
+
+`TypeScript` · `Next.js` · `NestJS` · `React` · `Prisma` · `PostgreSQL` · `MongoDB` · `Redis` · `GitHub Actions` · `Vercel` · `Nginx` · `Docker`
+
+## Writing
+
+Short notes from shipping work (tenancy, payroll as ledger, auth that outlives the feature):
+
+→ [abdimegersa.dev](https://abdimegersa.dev/#writing)
